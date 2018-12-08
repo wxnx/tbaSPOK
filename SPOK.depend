@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544104950 source:i:\tubestba\spok\spok.cpp
+	"spok.h"
+
+1544104950 i:\tubestba\spok\spok.h
+	<iostream>
+
+1544099923 source:i:\tubestba\spok\main.cpp
+	<iostream>
+	<windows.h>
+	"spok.h"
+
